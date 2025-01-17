@@ -1,0 +1,11 @@
+gopi is struggling to manage his daily expenses and often loses track of where his money goes.he wants a simple ,tech-friendly solution to log his spendings,analyse it,and visualize the trends so that he can make better financial decesion.gopi needs a python-based program that can handle his requirementsefficently without being overly complicated
+1.log expenses
+gopi should be able to enter details like category eg;food travel amount and date
+the data should be saved in a csv file for futuire reference
+2.analyse data
+ gopi wants to see his total; spending and category wise break down
+ he also wants to review his daily spending trends 
+3.visualize data
+ gopi needs simple visualizations such as barchart for category wise spending and line plots for daily trends
+4.user friendly navigation
+ the application should have a menu where gopy can shows actions like adding expenses analyzing data or visualize trends and return to the main menu

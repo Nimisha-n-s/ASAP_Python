@@ -1,0 +1,35 @@
+data types
+    integers
+    floats
+    strings
+
+conditional statements 
+    if 
+    else  
+    elif
+
+syntax for loop
+    for i in range
+
+function
+    def greet():   #function definition
+        print("hello,welcome")
+    greet()  # function call
+
+file handling
+    "r" - Read - Default value. Opens a file for reading, error if the file does not exist
+    "a" - Append - Opens a file for appending, creates the file if it does not exist
+    "w" - Write - Opens a file for writing, creates the file if it does not exist
+    "x" - Create - Creates the specified file, returns an error if the file exists
+
+csv file
+    use csv.reader to read rows as lists.
+    use csv.Dictreader to read rows as dictories.
+ writing csv:
+    use csv.writer to write rows as lists.
+    use csv.Dictwriter to write rows as dictories
+ Editing csv:
+    read the file into memory,process it,and write back
+ printing:
+    loop through the rows to display the content
+
